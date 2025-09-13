@@ -1,0 +1,5 @@
+device_name,device_type,host
+L3-SWITCH,cisco_xe,10.0.0.1
+ROUTER,cisco_ios,10.90.0.1
+DC-SWITCH,cisco_nxos,10.2.54.3
+SWITCH-2,cisco_ios,10.89.23.1
